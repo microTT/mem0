@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenMemory Local"
+  short_description: "Clone upstream mem0 and patch OpenMemory"
+  default_prompt: "Use $openmemory-local to clone the official mem0 repo, apply the local OpenMemory patch, write env files, and wire the MCP endpoint into Codex."
